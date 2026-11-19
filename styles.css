@@ -8,7 +8,7 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #ffc0e4;
+    background-color: #a07b90;
 }
 
 header, nav, main, aside, footer {
@@ -48,6 +48,7 @@ main, aside{
 
 main {
     width: calc(80% - 20px);
+    background-color: #ffc0e4;
 }
 
 aside {
@@ -74,7 +75,7 @@ article img {
 footer {
     text-align: center;
     font-size: 0.9em;
-    color: #C77557;
+    background-color: #C77557;
 }
 article img {
     width: 1100px;
