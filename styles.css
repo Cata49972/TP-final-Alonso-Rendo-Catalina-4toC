@@ -80,9 +80,14 @@ footer {
 article img {
     width: 600px;
     height: 400px;
+    text-align: center;
 }
 
 h1{
-    font-size: 100px;
+    font-size: 50px;
     color: #8a7942;
+}
+#img-logo{
+    width: 50px;
+    height: 50px;
 }
